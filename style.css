@@ -146,7 +146,7 @@ section {
     justify-content: space-between;
     align-items: center;
     gap: 4rem;
-    padding: 0 9%;
+    padding: 5rem;
     min-height: 100vh;
 }
 
@@ -347,7 +347,7 @@ span {
     justify-content: center;
     align-items: center;
     gap: 5rem;
-    padding: 5rem 9%;
+    padding: 5rem;
     background: var(--snd-bg-color);
 }
 
@@ -537,7 +537,7 @@ span {
 /* Skills section */
 .skills {
     min-height: 100vh;
-    padding: 9rem 9%;
+    padding: 10rem 9% 5rem 9%;
     background: var(--bg-color);
 }
 
@@ -641,7 +641,7 @@ span {
 
 @media (max-width: 768px) {
     .skills {
-        padding: 6rem 7%;
+        padding: 8rem 7% 5rem 7%;
     }
 
     .heading {
@@ -668,7 +668,7 @@ span {
 
 @media (max-width: 480px) {
     .skills {
-        padding: 5rem 5%;
+        padding: 7rem 5% 4rem 5%;
     }
 
     .heading {
@@ -696,7 +696,7 @@ span {
 /* Achievements Design */
 .achievements {
     min-height: 100vh;
-    padding: 5rem 9%;
+    padding: 10rem 9% 5rem 9%;
     background-color: var(--snd-bg-color);
 }
 
@@ -775,7 +775,7 @@ span {
 /* Responsive Design */
 @media (max-width: 991px) {
     .achievements {
-        padding: 5rem 7%;
+        padding: 8rem 7% 5rem 7%;
     }
 
     .achievements .heading {
@@ -799,7 +799,7 @@ span {
 
 @media (max-width: 768px) {
     .achievements {
-        padding: 5rem 5%;
+        padding: 8rem 5% 5rem 5%;
     }
 
     .achievements .heading {
@@ -824,7 +824,7 @@ span {
 
 @media (max-width: 480px) {
     .achievements {
-        padding: 4rem 5%;
+        padding: 7rem 5% 4rem 5%;
     }
 
     .achievements .heading {
@@ -848,7 +848,7 @@ span {
 /* Project Design */
 .projects {
     min-height: 100vh;
-    padding: 5rem 9%;
+    padding: 10rem 9% 5rem 9%;
     background-color: var(--bg-color);
 }
 
@@ -958,7 +958,7 @@ span {
 /* Responsive Design */
 @media (max-width: 991px) {
     .projects {
-        padding: 5rem 7%;
+        padding: 8rem 7% 5rem 7%;
     }
 
     .projects .heading {
@@ -989,7 +989,7 @@ span {
 
 @media (max-width: 768px) {
     .projects {
-        padding: 5rem 5%;
+        padding: 8rem 5% 5rem 5%;
     }
 
     .projects .heading {
@@ -1017,7 +1017,7 @@ span {
 
 @media (max-width: 480px) {
     .projects {
-        padding: 4rem 5%;
+        padding: 7rem 5% 4rem 5%;
     }
 
     .projects .heading {
@@ -1048,7 +1048,7 @@ span {
 /* Contact Section */
 .contact {
     min-height: 100vh;
-    padding: 5rem 9%;
+    padding: 10rem 9% 5rem 9%;
     background: var(--snd-bg-color);
 }
 
@@ -1152,7 +1152,7 @@ span {
 /* Responsive Design */
 @media (max-width: 991px) {
     .contact {
-        padding: 5rem 7%;
+        padding: 8rem 7% 5rem 7%;
     }
 
     .contact .heading {
@@ -1189,7 +1189,7 @@ span {
 
 @media (max-width: 768px) {
     .contact {
-        padding: 5rem 5%;
+        padding: 8rem 5% 5rem 5%;
     }
 
     .contact .heading {
@@ -1220,7 +1220,7 @@ span {
 
 @media (max-width: 480px) {
     .contact {
-        padding: 4rem 5%;
+        padding: 7rem 5% 4rem 5%;
     }
 
     .contact .heading {
